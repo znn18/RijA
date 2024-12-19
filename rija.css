@@ -8,9 +8,19 @@ body {
     align-items: center;
     display: flex;
     height: 100vh;
-
 }
 
+p{
+  color: #f8f8f8;
+  text-align: center;
+}
+
+p1{
+  color: #f8f8f8;
+  font-weight: bold;
+  font-size: large;
+      
+}
 .projectile {
   position: absolute;
   width: 10px;
